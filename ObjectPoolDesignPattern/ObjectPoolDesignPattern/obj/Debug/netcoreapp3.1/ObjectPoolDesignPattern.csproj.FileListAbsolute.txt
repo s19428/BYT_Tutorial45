@@ -1,0 +1,13 @@
+D:\Academy\BYT\Tutorial45\ObjectPoolDesignPattern\ObjectPoolDesignPattern\bin\Debug\netcoreapp3.1\ObjectPoolDesignPattern.exe
+D:\Academy\BYT\Tutorial45\ObjectPoolDesignPattern\ObjectPoolDesignPattern\bin\Debug\netcoreapp3.1\ObjectPoolDesignPattern.deps.json
+D:\Academy\BYT\Tutorial45\ObjectPoolDesignPattern\ObjectPoolDesignPattern\bin\Debug\netcoreapp3.1\ObjectPoolDesignPattern.runtimeconfig.json
+D:\Academy\BYT\Tutorial45\ObjectPoolDesignPattern\ObjectPoolDesignPattern\bin\Debug\netcoreapp3.1\ObjectPoolDesignPattern.runtimeconfig.dev.json
+D:\Academy\BYT\Tutorial45\ObjectPoolDesignPattern\ObjectPoolDesignPattern\bin\Debug\netcoreapp3.1\ObjectPoolDesignPattern.dll
+D:\Academy\BYT\Tutorial45\ObjectPoolDesignPattern\ObjectPoolDesignPattern\bin\Debug\netcoreapp3.1\ObjectPoolDesignPattern.pdb
+D:\Academy\BYT\Tutorial45\ObjectPoolDesignPattern\ObjectPoolDesignPattern\obj\Debug\netcoreapp3.1\ObjectPoolDesignPattern.csprojAssemblyReference.cache
+D:\Academy\BYT\Tutorial45\ObjectPoolDesignPattern\ObjectPoolDesignPattern\obj\Debug\netcoreapp3.1\ObjectPoolDesignPattern.AssemblyInfoInputs.cache
+D:\Academy\BYT\Tutorial45\ObjectPoolDesignPattern\ObjectPoolDesignPattern\obj\Debug\netcoreapp3.1\ObjectPoolDesignPattern.AssemblyInfo.cs
+D:\Academy\BYT\Tutorial45\ObjectPoolDesignPattern\ObjectPoolDesignPattern\obj\Debug\netcoreapp3.1\ObjectPoolDesignPattern.csproj.CoreCompileInputs.cache
+D:\Academy\BYT\Tutorial45\ObjectPoolDesignPattern\ObjectPoolDesignPattern\obj\Debug\netcoreapp3.1\ObjectPoolDesignPattern.dll
+D:\Academy\BYT\Tutorial45\ObjectPoolDesignPattern\ObjectPoolDesignPattern\obj\Debug\netcoreapp3.1\ObjectPoolDesignPattern.pdb
+D:\Academy\BYT\Tutorial45\ObjectPoolDesignPattern\ObjectPoolDesignPattern\obj\Debug\netcoreapp3.1\ObjectPoolDesignPattern.genruntimeconfig.cache
