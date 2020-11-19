@@ -1,0 +1,13 @@
+D:\Academy\BYT\Tutorial45\MementoDesignPattern\MementoDesignPattern\bin\Debug\netcoreapp3.1\MementoDesignPattern.exe
+D:\Academy\BYT\Tutorial45\MementoDesignPattern\MementoDesignPattern\bin\Debug\netcoreapp3.1\MementoDesignPattern.deps.json
+D:\Academy\BYT\Tutorial45\MementoDesignPattern\MementoDesignPattern\bin\Debug\netcoreapp3.1\MementoDesignPattern.runtimeconfig.json
+D:\Academy\BYT\Tutorial45\MementoDesignPattern\MementoDesignPattern\bin\Debug\netcoreapp3.1\MementoDesignPattern.runtimeconfig.dev.json
+D:\Academy\BYT\Tutorial45\MementoDesignPattern\MementoDesignPattern\bin\Debug\netcoreapp3.1\MementoDesignPattern.dll
+D:\Academy\BYT\Tutorial45\MementoDesignPattern\MementoDesignPattern\bin\Debug\netcoreapp3.1\MementoDesignPattern.pdb
+D:\Academy\BYT\Tutorial45\MementoDesignPattern\MementoDesignPattern\obj\Debug\netcoreapp3.1\MementoDesignPattern.csprojAssemblyReference.cache
+D:\Academy\BYT\Tutorial45\MementoDesignPattern\MementoDesignPattern\obj\Debug\netcoreapp3.1\MementoDesignPattern.AssemblyInfoInputs.cache
+D:\Academy\BYT\Tutorial45\MementoDesignPattern\MementoDesignPattern\obj\Debug\netcoreapp3.1\MementoDesignPattern.AssemblyInfo.cs
+D:\Academy\BYT\Tutorial45\MementoDesignPattern\MementoDesignPattern\obj\Debug\netcoreapp3.1\MementoDesignPattern.csproj.CoreCompileInputs.cache
+D:\Academy\BYT\Tutorial45\MementoDesignPattern\MementoDesignPattern\obj\Debug\netcoreapp3.1\MementoDesignPattern.dll
+D:\Academy\BYT\Tutorial45\MementoDesignPattern\MementoDesignPattern\obj\Debug\netcoreapp3.1\MementoDesignPattern.pdb
+D:\Academy\BYT\Tutorial45\MementoDesignPattern\MementoDesignPattern\obj\Debug\netcoreapp3.1\MementoDesignPattern.genruntimeconfig.cache
